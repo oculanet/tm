@@ -1,0 +1,4 @@
+Name,gap,required hours,LMT Utilization,HMT Utilization,Wheel track utilization,tolerance  to fdo before
+19K,19000,10,10,0,0,10%
+38K,38000,30,25,5,0,10%
+76K,76000,50,25,10,15,5%
